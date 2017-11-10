@@ -1,0 +1,73 @@
+/*arquivo estilo.css*/
+body{
+    margin:0;
+    padding:0;
+    font-family:Adobe Heiti Std R;
+    background-color:#000000 ;
+}
+#container{
+    width:100%;
+    border: 1px solid yellow;
+    margin:auto;
+}
+.col-12{
+    width:100%;
+    text-align: center;
+}
+.col-4{
+    width:25%;
+    height:320px;
+    float:left;	 
+}
+.banner{
+    width:550px;
+    margin: auto;
+}
+.logo{
+    font-family:Montserrat,sans-serif;
+    font-size:60px;
+    color:#FFFFFF;
+    text-align:center; 
+    margin-top: -20px;
+}
+.slogan{
+    font-family:Montserrat,sans-serif;
+    font-size:30px;
+    color:#FFFFFF;
+    text-align:center; 
+}
+.menu 
+{
+    list-style-type:none;
+    width: 100%;
+    margin:auto;
+    padding:0;
+    overflow:hidden;
+    background-color:#000000;
+}
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    font-family:Montserrat,sans-serif;
+    display:block;
+    color:#fff;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    font-size:25px;
+}
+.menu li a:hover {
+    padding:1em;
+}
+.rodape{
+    width:100%;
+    clear:both;
+    background-color:#000000;
+    color:#FFFFFF;
+    text-align:center;
+    font-size:12px;
+    font-style:italic;
+    font-weight:bold;
+    height:20px;
+}
