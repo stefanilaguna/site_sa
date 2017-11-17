@@ -3,7 +3,7 @@ body{
     margin:0;
     padding:0;
     font-family:Adobe Heiti Std R;
-    background-color:#000000 ;
+    background-color:black ;
 }
 #container{
     width:100%;
@@ -25,7 +25,7 @@ body{
 }
 .logo{
     font-family:Montserrat,sans-serif;
-    font-size:60px;
+    font-size:80px;
     color:#FFFFFF;
     text-align:center; 
     margin-top: -20px;
@@ -70,4 +70,54 @@ body{
     font-style:italic;
     font-weight:bold;
     height:20px;
+}
+div.galeria {
+    border: 1px solid #FFF;          
+    float: left;
+    text-align: center;
+}
+
+div.galeria img {
+    width: 250px;
+    height: 200px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color:white;
+}
+.responsive {
+    padding: 6px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+select {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    clear:left;
+}
+.imgs {
+    width:50%;
 }
