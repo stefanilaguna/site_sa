@@ -36,14 +36,13 @@ body{
     color:#FFFFFF;
     text-align:center; 
 }
-.menu 
-{
+.menu {
     list-style-type:none;
     width: 100%;
-    margin:auto;
+    margin-top:75px;
     padding:0;
     overflow:hidden;
-    background-color:#000000;
+    background-color:#FFFFFF;
 }
 .menu li {
     display: inline-block;
@@ -76,10 +75,9 @@ div.galeria {
     float: left;
     text-align: center;
 }
-
 div.galeria img {
-    width: 250px;
-    height: 200px;
+    width: 200px;
+    height: 180px;
 }
 
 div.desc {
@@ -121,3 +119,11 @@ select {
 .imgs {
     width:50%;
 }
+
+.img_logo{
+    text-align:center;
+    width:100%
+}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
