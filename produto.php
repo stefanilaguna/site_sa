@@ -1,5 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <div class="w3-content w3-display-container" style="margin-top:0px;max-width:80%">
   <img class="mySlides" src="img/01.png" style="width:100%">
   <img class="mySlides" src="img/02.png" style="width:100%">
@@ -18,13 +20,18 @@
     <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
   </div>
 </div>
-<div class="container2">
-  <img src="img/FON1.png" alt="Avatar" class="image2" style="width:100%">
-  <div class="middle">
-    <div class="text2">Comprar</div>
+<div class="w3-container">
+  <h2>Produtos</h2>
+
+  <div class="w3-card-4" style="width:50%">
+    <img src="img/001.jpg" alt="Norway" style="width:100%">
+    <div class="w3-container w3-center" style="color:white">
+        <h6>MONITOR GAMER LG 25UM58-P</h6>
+        <p>LED 24 POL FULL HD 1MS 144HZ FREESYNC VGA /DVI/DISPLAY PORT/HDMI</p>
+        <p>R$750,00</p>
+    </div>
   </div>
 </div>
-
 <script>
 var slideIndex = 1;
 showDivs(slideIndex);
