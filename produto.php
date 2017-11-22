@@ -18,6 +18,12 @@
     <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
   </div>
 </div>
+<div class="container2">
+  <img src="img/FON1.png" alt="Avatar" class="image2" style="width:100%">
+  <div class="middle">
+    <div class="text2">Comprar</div>
+  </div>
+</div>
 
 <script>
 var slideIndex = 1;
