@@ -27,10 +27,10 @@
         <img src="img/4.png" alt="4"class="w3-hover-opacity">   
         <div class="desc">Filial 03 - Ituporanga</div>
     </div>
-</div>
 <div class="galeria">
     <img src="img/2.png" alt="5"class="w3-hover-opacity">
     <div class="desc">Filial 04 - Salete</div>
+</div>
 </div>
 <div class="w3-container" id="programa" style="color:white">
     <h1 class="w3-xxxlarge w3-text-white"><b>Colaboradores</b></h1>
