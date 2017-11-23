@@ -27,8 +27,9 @@
                     <a href="?pg=home" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">HOME</a> 
                     <a href="?pg=sobre" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">SOBRE NÓS</a> 
                     <a href="?pg=produto" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">PRODUTOS</a> 
-                    <a href="?pg=produto" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">SERVIÇOS</a>
+                    <a href="?pg=servicos" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">SERVIÇOS</a>
                     <a href="?pg=contato" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">FALE CONOSCO</a>
+                    <a href="?pg=faq" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">PERGUNTAS FREQUENTES</a>
                     <a href="?pg=responsabilidade" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-black">RESPONSABILIDADE SOCIAL</a>
                 </div>
 

@@ -1,6 +1,9 @@
 <div class="w3-container" id="services" >
     <h1 class="w3-xxxlarge w3-text-white" style="margin-top:80px"><b>Sobre Nós</b></h1>
     <p style="color:white">A DELTA é uma empresa que atua no ramo da informática e está há mais de 10 anos no mercado de trabalho e atende as regiões do Alto Vale do Itajaí - Santa Catarina. Atualmente contamos  com uma equipe de 80 funcionários especializados e materiais de alto desempenho e durabilidade, visando assim a satisfação de todos nossos clientes e fornecedores. </p>
+<video width="600" controls>
+  <source src="img/delta.mp4" type="video/mp4">
+</video>
 </div>
 <div class="w3-container" id="programa" style="margin-top:40px;color:white">
     <h1 class="w3-xxxlarge w3-text-white"><b>Localização</b></h1>
@@ -9,24 +12,24 @@
 </div>
 <div class="responsive">
     <div class="galeria">
-        <img src="img/5.png" alt="1">
+        <img src="img/5.png" alt="1"class="w3-hover-opacity">
         <div class="desc">Matriz - Rio do Sul</div>
     </div>
     <div class="galeria">
-        <img src="img/1.png" alt="2">
+        <img src="img/1.png" alt="2"class="w3-hover-opacity">
         <div class="desc">Filial 01 - Agrolândia</div>
     </div>
     <div class="galeria">
-        <img src="img/3.png" alt="3">
+        <img src="img/3.png" alt="3"class="w3-hover-opacity">
         <div class="desc">Filial 02 - Dona Emma</div>
     </div>
     <div class="galeria">
-        <img src="img/4.png" alt="4">   
+        <img src="img/4.png" alt="4"class="w3-hover-opacity">   
         <div class="desc">Filial 03 - Ituporanga</div>
     </div>
 </div>
 <div class="galeria">
-    <img src="img/2.png" alt="5">
+    <img src="img/2.png" alt="5"class="w3-hover-opacity">
     <div class="desc">Filial 04 - Salete</div>
 </div>
 <div class="w3-container" id="programa" style="color:white">
